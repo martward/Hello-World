@@ -1,3 +1,9 @@
+/*
+Martijn Wardenaar
+10348190
+martijnwardenaar@gmail.com
+ */
+
 package com.example.martijn.myapplication;
 
 import android.support.v7.app.ActionBarActivity;
